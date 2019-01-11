@@ -8,7 +8,7 @@ Logistic Regression is a supervised machine learning classification algorithm. I
 # Why it is called regression?
 Since we use it for the prediction of the probability but ultimately it predictes the value that's why we call it regression. 
 
-#Logistic Regression Assumptions>>
+## Logistic Regression Assumptions
 
 1. Binary logistic regression requires the dependent variable to be binary.
 2. For a binary regression, the factor level 1 of the dependent variable should represent the desired outcome.
@@ -18,7 +18,7 @@ Since we use it for the prediction of the probability but ultimately it predicte
 Logistic regression requires quite large sample sizes.
 
 
-#Logistic VS Linear Regression>>
+## Logistic VS Linear Regression
 
 It is a special case of linear regression where the target variable is categorical in nature. It uses a log of odds as the dependent variable. Logistic Regression predicts the probability of occurrence of a binary event utilizing a logit function. 
 Linear regression gives you a continuous output, but logistic regression provides a constant output. 
